@@ -1,2 +1,0 @@
-# instantcredit
-Created with CodeSandbox
